@@ -1,0 +1,13 @@
+ROOMNO,ROOM TYPE,ROOM_RENT,FLOOR
+101,single without ac,1000,1
+102,single with ac,1200,1
+103,double without ac,1900,1
+104,double with ac,2350,1
+105,silver,4000,1
+106,gold,5000,1
+201,single without ac,1000,2
+202,single with ac,1200,2
+203,double without ac,1900,2
+204,double with ac,2350,2
+205,silver,4000,2
+206,gold,5000,2
